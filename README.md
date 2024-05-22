@@ -6,7 +6,7 @@
 2. System Design
 - Architecture Design :  Design the overall system architecture, including data flow from the camera to the dashboard.
 - Component Selection: Choose appropriate components:
- - Camera : For capturing real-time video footage.
+  - Camera : For capturing real-time video footage.
   - GPS Module: For tracking the bus location.
   - Server: For processing and storing data.
   - Database: Supabase for storing data.
